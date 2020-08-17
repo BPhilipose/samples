@@ -28,6 +28,6 @@ a = x + y
 # Casting
 x = str(x)
 y = int(y)
-z = float(y)
+z = float(y)(x)
 
 print(type(z), z)
